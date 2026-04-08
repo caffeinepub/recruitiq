@@ -1,0 +1,27 @@
+{
+  "overview": "A fully functional police entrance exam practice system with 4 progressive-difficulty exams (400+ questions), timed testing, answer review, attempt tracking, category performance dashboard, and badge progression system. All data persisted in browser localStorage with mobile-friendly design.",
+  "features": [
+    "4 full exams with 100+ questions each (Easy to Hard/Elite)",
+    "Timed exams with visible countdown and auto-submit",
+    "Pass/fail scoring at 80% threshold",
+    "Post-exam review mode with explanations",
+    "Attempt history via localStorage",
+    "Category performance breakdown across 16 categories",
+    "Badge system: Rookie, Ready, Academy Bound, Top Candidate",
+    "Randomized question and answer order toggles",
+    "Resume exam if browser closes",
+    "Mobile-responsive design",
+    "Study recommendations after each attempt"
+  ],
+  "category": "education",
+  "tags": [
+    "police-exam",
+    "exam-prep",
+    "quiz",
+    "education",
+    "law-enforcement",
+    "practice-test",
+    "mobile-friendly"
+  ],
+  "last_updated": "2026-04-07T22:56:55.384Z"
+}
